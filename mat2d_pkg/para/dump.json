@@ -1,0 +1,592 @@
+{
+    "H": {
+        "single_bond": 0.32,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "He": {
+        "single_bond": 0.46,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Li": {
+        "single_bond": 1.33,
+        "double_bond": 1.24,
+        "triple_bond": "-"
+    },
+    "Be": {
+        "single_bond": 1.02,
+        "double_bond": 0.9,
+        "triple_bond": 0.85
+    },
+    "B": {
+        "single_bond": 0.85,
+        "double_bond": 0.78,
+        "triple_bond": 0.73
+    },
+    "C": {
+        "single_bond": 0.75,
+        "double_bond": 0.67,
+        "triple_bond": 0.6
+    },
+    "N": {
+        "single_bond": 0.71,
+        "double_bond": 0.6,
+        "triple_bond": 0.54
+    },
+    "O": {
+        "single_bond": 0.63,
+        "double_bond": 0.5700000000000001,
+        "triple_bond": 0.53
+    },
+    "F": {
+        "single_bond": 0.64,
+        "double_bond": 0.59,
+        "triple_bond": 0.53
+    },
+    "Ne": {
+        "single_bond": 0.67,
+        "double_bond": 0.96,
+        "triple_bond": "-"
+    },
+    "Na": {
+        "single_bond": 1.55,
+        "double_bond": 1.6,
+        "triple_bond": "-"
+    },
+    "Mg": {
+        "single_bond": 1.3900000000000001,
+        "double_bond": 1.32,
+        "triple_bond": 1.27
+    },
+    "Al": {
+        "single_bond": 1.26,
+        "double_bond": 1.1300000000000001,
+        "triple_bond": 1.11
+    },
+    "Si": {
+        "single_bond": 1.16,
+        "double_bond": 1.07,
+        "triple_bond": 1.02
+    },
+    "P": {
+        "single_bond": 1.11,
+        "double_bond": 1.02,
+        "triple_bond": 0.9400000000000001
+    },
+    "S": {
+        "single_bond": 1.03,
+        "double_bond": 0.9400000000000001,
+        "triple_bond": 0.9500000000000001
+    },
+    "Cl": {
+        "single_bond": 0.99,
+        "double_bond": 0.9500000000000001,
+        "triple_bond": 0.93
+    },
+    "Ar": {
+        "single_bond": 0.96,
+        "double_bond": 1.07,
+        "triple_bond": 0.96
+    },
+    "K": {
+        "single_bond": 1.96,
+        "double_bond": 1.93,
+        "triple_bond": "-"
+    },
+    "Ca": {
+        "single_bond": 1.71,
+        "double_bond": 1.47,
+        "triple_bond": 1.33
+    },
+    "Sc": {
+        "single_bond": 1.48,
+        "double_bond": 1.16,
+        "triple_bond": 1.1400000000000001
+    },
+    "Ti": {
+        "single_bond": 1.36,
+        "double_bond": 1.17,
+        "triple_bond": 1.08
+    },
+    "v": {
+        "single_bond": 1.34,
+        "double_bond": 1.12,
+        "triple_bond": 1.06
+    },
+    "Cr": {
+        "single_bond": 1.22,
+        "double_bond": 1.11,
+        "triple_bond": 1.03
+    },
+    "Mn": {
+        "single_bond": 1.19,
+        "double_bond": 1.05,
+        "triple_bond": 1.03
+    },
+    "Fe": {
+        "single_bond": 1.16,
+        "double_bond": 1.09,
+        "triple_bond": 1.02
+    },
+    "Co": {
+        "single_bond": 1.11,
+        "double_bond": 1.03,
+        "triple_bond": 0.96
+    },
+    "Ni": {
+        "single_bond": 1.1,
+        "double_bond": 1.01,
+        "triple_bond": 1.01
+    },
+    "Cu": {
+        "single_bond": 1.12,
+        "double_bond": 1.1500000000000001,
+        "triple_bond": 1.2
+    },
+    "Zn": {
+        "single_bond": 1.18,
+        "double_bond": 1.2,
+        "triple_bond": "-"
+    },
+    "Ga": {
+        "single_bond": 1.24,
+        "double_bond": 1.17,
+        "triple_bond": 1.21
+    },
+    "Ge": {
+        "single_bond": 1.21,
+        "double_bond": 1.11,
+        "triple_bond": 1.1400000000000001
+    },
+    "As": {
+        "single_bond": 1.21,
+        "double_bond": 1.1400000000000001,
+        "triple_bond": 1.06
+    },
+    "Se": {
+        "single_bond": 1.16,
+        "double_bond": 1.07,
+        "triple_bond": 1.07
+    },
+    "Br": {
+        "single_bond": 1.1400000000000001,
+        "double_bond": 1.09,
+        "triple_bond": 1.1
+    },
+    "Kr": {
+        "single_bond": 1.17,
+        "double_bond": 1.21,
+        "triple_bond": 1.08
+    },
+    "Rb": {
+        "single_bond": 2.1,
+        "double_bond": 2.02,
+        "triple_bond": "-"
+    },
+    "Sr": {
+        "single_bond": 1.85,
+        "double_bond": 1.57,
+        "triple_bond": 1.3900000000000001
+    },
+    "Y": {
+        "single_bond": 1.6300000000000001,
+        "double_bond": 1.3,
+        "triple_bond": 1.24
+    },
+    "Zr": {
+        "single_bond": 1.54,
+        "double_bond": 1.27,
+        "triple_bond": 1.21
+    },
+    "Nb": {
+        "single_bond": 1.47,
+        "double_bond": 1.25,
+        "triple_bond": 1.16
+    },
+    "Mo": {
+        "single_bond": 1.3800000000000001,
+        "double_bond": 1.21,
+        "triple_bond": 1.1300000000000001
+    },
+    "Tc": {
+        "single_bond": 1.28,
+        "double_bond": 1.2,
+        "triple_bond": 1.1
+    },
+    "Ru": {
+        "single_bond": 1.25,
+        "double_bond": 1.1400000000000001,
+        "triple_bond": 1.03
+    },
+    "Rh": {
+        "single_bond": 1.25,
+        "double_bond": 1.1,
+        "triple_bond": 1.06
+    },
+    "Pd": {
+        "single_bond": 1.2,
+        "double_bond": 1.17,
+        "triple_bond": 1.12
+    },
+    "Ag": {
+        "single_bond": 1.28,
+        "double_bond": 1.3900000000000001,
+        "triple_bond": 1.37
+    },
+    "Cd": {
+        "single_bond": 1.36,
+        "double_bond": 1.44,
+        "triple_bond": "-"
+    },
+    "In": {
+        "single_bond": 1.42,
+        "double_bond": 1.36,
+        "triple_bond": 1.46
+    },
+    "Sn": {
+        "single_bond": 1.4000000000000001,
+        "double_bond": 1.3,
+        "triple_bond": 1.32
+    },
+    "Sb": {
+        "single_bond": 1.4000000000000001,
+        "double_bond": 1.33,
+        "triple_bond": 1.27
+    },
+    "Te": {
+        "single_bond": 1.36,
+        "double_bond": 1.28,
+        "triple_bond": 1.21
+    },
+    "I": {
+        "single_bond": 1.33,
+        "double_bond": 1.29,
+        "triple_bond": 1.25
+    },
+    "Xe": {
+        "single_bond": 1.31,
+        "double_bond": 1.35,
+        "triple_bond": 1.22
+    },
+    "Cs": {
+        "single_bond": 2.32,
+        "double_bond": 2.09,
+        "triple_bond": "-"
+    },
+    "Ba": {
+        "single_bond": 1.96,
+        "double_bond": 1.61,
+        "triple_bond": 1.49
+    },
+    "La": {
+        "single_bond": 1.8,
+        "double_bond": 1.3900000000000001,
+        "triple_bond": 1.3900000000000001
+    },
+    "Ce": {
+        "single_bond": 1.6300000000000001,
+        "double_bond": 1.37,
+        "triple_bond": 1.31
+    },
+    "Pr": {
+        "single_bond": 1.76,
+        "double_bond": 1.3800000000000001,
+        "triple_bond": 1.28
+    },
+    "Nd": {
+        "single_bond": 1.74,
+        "double_bond": 1.37,
+        "triple_bond": "-"
+    },
+    "Pm": {
+        "single_bond": 1.73,
+        "double_bond": 1.35,
+        "triple_bond": "-"
+    },
+    "Sm": {
+        "single_bond": 1.72,
+        "double_bond": 1.34,
+        "triple_bond": "-"
+    },
+    "Eu": {
+        "single_bond": 1.68,
+        "double_bond": 1.34,
+        "triple_bond": "-"
+    },
+    "Gd": {
+        "single_bond": 1.69,
+        "double_bond": 1.35,
+        "triple_bond": 1.32
+    },
+    "Tb": {
+        "single_bond": 1.68,
+        "double_bond": 1.35,
+        "triple_bond": "-"
+    },
+    "Dy": {
+        "single_bond": 1.67,
+        "double_bond": 1.33,
+        "triple_bond": "-"
+    },
+    "Ho": {
+        "single_bond": 1.6600000000000001,
+        "double_bond": 1.33,
+        "triple_bond": "-"
+    },
+    "Er": {
+        "single_bond": 1.6500000000000001,
+        "double_bond": 1.33,
+        "triple_bond": "-"
+    },
+    "Tm": {
+        "single_bond": 1.6400000000000001,
+        "double_bond": 1.31,
+        "triple_bond": "-"
+    },
+    "Yb": {
+        "single_bond": 1.7,
+        "double_bond": 1.29,
+        "triple_bond": "-"
+    },
+    "Lu": {
+        "single_bond": 1.62,
+        "double_bond": 1.31,
+        "triple_bond": 1.31
+    },
+    "Hf": {
+        "single_bond": 1.52,
+        "double_bond": 1.28,
+        "triple_bond": 1.22
+    },
+    "Ta": {
+        "single_bond": 1.46,
+        "double_bond": 1.26,
+        "triple_bond": 1.19
+    },
+    "W": {
+        "single_bond": 1.37,
+        "double_bond": 1.2,
+        "triple_bond": 1.1500000000000001
+    },
+    "Re": {
+        "single_bond": 1.31,
+        "double_bond": 1.19,
+        "triple_bond": 1.1
+    },
+    "Os": {
+        "single_bond": 1.29,
+        "double_bond": 1.16,
+        "triple_bond": 1.09
+    },
+    "Ir": {
+        "single_bond": 1.22,
+        "double_bond": 1.1500000000000001,
+        "triple_bond": 1.07
+    },
+    "Pt": {
+        "single_bond": 1.23,
+        "double_bond": 1.12,
+        "triple_bond": 1.1
+    },
+    "Au": {
+        "single_bond": 1.24,
+        "double_bond": 1.21,
+        "triple_bond": 1.23
+    },
+    "Hg": {
+        "single_bond": 1.33,
+        "double_bond": 1.42,
+        "triple_bond": "-"
+    },
+    "Tl": {
+        "single_bond": 1.44,
+        "double_bond": 1.42,
+        "triple_bond": 1.5
+    },
+    "Pb": {
+        "single_bond": 1.44,
+        "double_bond": 1.35,
+        "triple_bond": 1.37
+    },
+    "Bi": {
+        "single_bond": 1.51,
+        "double_bond": 1.41,
+        "triple_bond": 1.35
+    },
+    "Po": {
+        "single_bond": 1.45,
+        "double_bond": 1.35,
+        "triple_bond": 1.29
+    },
+    "At": {
+        "single_bond": 1.47,
+        "double_bond": 1.3800000000000001,
+        "triple_bond": 1.3800000000000001
+    },
+    "Rn": {
+        "single_bond": 1.42,
+        "double_bond": 1.45,
+        "triple_bond": 1.33
+    },
+    "Fr": {
+        "single_bond": 2.23,
+        "double_bond": 2.18,
+        "triple_bond": "-"
+    },
+    "Ra": {
+        "single_bond": 2.0100000000000002,
+        "double_bond": 1.73,
+        "triple_bond": 1.59
+    },
+    "Ac": {
+        "single_bond": 1.86,
+        "double_bond": 1.53,
+        "triple_bond": 1.4000000000000001
+    },
+    "Th": {
+        "single_bond": 1.75,
+        "double_bond": 1.43,
+        "triple_bond": 1.36
+    },
+    "Pa": {
+        "single_bond": 1.69,
+        "double_bond": 1.3800000000000001,
+        "triple_bond": 1.29
+    },
+    "U": {
+        "single_bond": 1.7,
+        "double_bond": 1.34,
+        "triple_bond": 1.18
+    },
+    "Np": {
+        "single_bond": 1.71,
+        "double_bond": 1.36,
+        "triple_bond": 1.16
+    },
+    "Pu": {
+        "single_bond": 1.72,
+        "double_bond": 1.35,
+        "triple_bond": "-"
+    },
+    "Am": {
+        "single_bond": 1.6600000000000001,
+        "double_bond": 1.35,
+        "triple_bond": "-"
+    },
+    "Cm": {
+        "single_bond": 1.6600000000000001,
+        "double_bond": 1.36,
+        "triple_bond": "-"
+    },
+    "Bk": {
+        "single_bond": 1.68,
+        "double_bond": 1.3900000000000001,
+        "triple_bond": "-"
+    },
+    "Cf": {
+        "single_bond": 1.68,
+        "double_bond": 1.4000000000000001,
+        "triple_bond": "-"
+    },
+    "Es": {
+        "single_bond": 1.6500000000000001,
+        "double_bond": 1.4000000000000001,
+        "triple_bond": "-"
+    },
+    "Fm": {
+        "single_bond": 1.67,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Md": {
+        "single_bond": 1.73,
+        "double_bond": 1.3900000000000001,
+        "triple_bond": "-"
+    },
+    "No": {
+        "single_bond": 1.76,
+        "double_bond": 1.59,
+        "triple_bond": "-"
+    },
+    "Lr": {
+        "single_bond": 1.61,
+        "double_bond": 1.41,
+        "triple_bond": "-"
+    },
+    "Rf": {
+        "single_bond": 1.57,
+        "double_bond": 1.4000000000000001,
+        "triple_bond": 1.31
+    },
+    "Db": {
+        "single_bond": 1.49,
+        "double_bond": 1.36,
+        "triple_bond": 1.26
+    },
+    "Sg": {
+        "single_bond": 1.43,
+        "double_bond": 1.28,
+        "triple_bond": 1.21
+    },
+    "Bh": {
+        "single_bond": 1.41,
+        "double_bond": 1.28,
+        "triple_bond": 1.19
+    },
+    "Hs": {
+        "single_bond": 1.34,
+        "double_bond": 1.25,
+        "triple_bond": 1.18
+    },
+    "Mt": {
+        "single_bond": 1.29,
+        "double_bond": 1.25,
+        "triple_bond": 1.1300000000000001
+    },
+    "Ds": {
+        "single_bond": 1.28,
+        "double_bond": 1.16,
+        "triple_bond": 1.12
+    },
+    "Rg": {
+        "single_bond": 1.21,
+        "double_bond": 1.16,
+        "triple_bond": 1.18
+    },
+    "Cn": {
+        "single_bond": 1.22,
+        "double_bond": 1.37,
+        "triple_bond": 1.3
+    },
+    "Uut": {
+        "single_bond": 1.36,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Uuq": {
+        "single_bond": 1.43,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Uup": {
+        "single_bond": 1.62,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Uuh": {
+        "single_bond": 1.75,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Uus": {
+        "single_bond": 1.6500000000000001,
+        "double_bond": "-",
+        "triple_bond": "-"
+    },
+    "Uuo": {
+        "single_bond": 1.57,
+        "double_bond": "-",
+        "triple_bond": "-"
+    }
+}

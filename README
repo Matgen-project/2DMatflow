@@ -1,0 +1,6 @@
+1. extract layer energy and the direction
+python main.py ../../../calculate/layer/comp/ layer
+2. extract bulk energy and in-plane area , number of cluster in primitive cell by step 1 'layer.log'
+python main.py ../../../calculate/comp bulk ./layer.log
+3. calc Eex
+python main.py ./bulk.log eex ./layer.log
